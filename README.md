@@ -56,7 +56,8 @@ npm run dev
 
 You can see the message `I am a message from Server!` sent from server to client.<br>
 Done!<br>
-Please contact me if you have any problems, thanks for using it!
+If you have any problems, [let me know](https://github.com/hocwebchuan/React-server-and-client/issues).<br>
+Thanks for using it!
 
 ## Folder Structure
 
