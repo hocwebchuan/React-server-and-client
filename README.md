@@ -1,5 +1,6 @@
 # React Server and Client
 This project is a simple way to create API by Express.js, then send a message from the server to the client.
+Tutorial avaiable at [https:hocwebchuan.com](https:hocwebchuan.com/tutorial/reactjs/reactjs_express_api.php)
 
 ## Table of Contents
 - [Available Scripts](#available-scripts)
@@ -13,33 +14,45 @@ This project is a simple way to create API by Express.js, then send a message fr
 ## Available Scripts
 In the project directory, follow these steps:
 
-###Install Express.js
+### Install Express.js
 Express is a module framework for Node that you can use for applications that are based on server that will listen for any input/connection requests from clients.
 This project used Express to create App.
 
 You can install Express.js by run:
-`npm install –save express`
+```sh
+npm install –save express
+```
 
-###Install Node.js modules
+### Install Node.js modules
 You need install node.js modules for this project:
-`cd client
-npm install`
+```sh
+cd client
+npm install
+```
 
 Runs the app in the development mode:
-`npm start`
+```sh
+npm start
+```
 Then you can see in the browser with the Welcome screen of React app.
 
-###Install Concurrently
+### Install Concurrently
 Concurrently: support running multiple processes at the same time, this project we will run Port 3000 (client) and 4000 (server) at the same time.
-`npm install –save concurrently`
+```sh
+npm install –save concurrently
+```
 
-###Install Axios
+### Install Axios
 Axios is a Javascript library used to make HTTP requests from node.js or XMLHttpRequests from the browser. We need to use Axios to get the data from server.
-`npm install –save axios`
+```sh
+npm install –save axios
+```
 
-###Run the app
+### Run the app
 After install necessary libraries, now we can run the app by run this script at the root of project /React-server-and-client-master/:
-`npm run dev`
+```sh
+npm run dev
+```
 
 You can see the message "I am a message from Server!" sent from server to client.
 Done!
