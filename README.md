@@ -10,6 +10,7 @@ Tutorial avaiable at [https://hocwebchuan.com](https://hocwebchuan.com/tutorial/
   - [Install Axios](#install-axios)
   - [Run the app](#run-the-app)
 - [Folder Structure](#folder-structure)
+- [Something Missing?](#something-missing)
 
 ## Available Scripts
 In the project directory, follow these steps:
@@ -56,8 +57,6 @@ npm run dev
 
 You can see the message `I am a message from Server!` sent from server to client.<br>
 Done!<br>
-If you have any problems, [let me know](https://github.com/hocwebchuan/React-server-and-client/issues).<br>
-Thanks for using it!
 
 ## Folder Structure
 
@@ -79,3 +78,8 @@ React-server-and-client-master/
   package-lock.json
   README.md
 ```
+
+## Something missing?
+
+If you have any problems, [let me know](https://github.com/hocwebchuan/React-server-and-client/issues).<br>
+Thanks for using it!
