@@ -15,7 +15,7 @@ Tutorial avaiable at [https://hocwebchuan.com](https://hocwebchuan.com/tutorial/
 In the project directory, follow these steps:
 
 ### Install Express.js
-Express is a module framework for Node that you can use for applications that are based on server that will listen for any input/connection requests from clients.
+Express is a module framework for Node that you can use for applications that are based on server that will listen for any input/connection requests from clients.<br>
 This project used Express to create App.
 
 You can install Express.js by run:
@@ -54,8 +54,9 @@ After install necessary libraries, now we can run the app by run this script at 
 npm run dev
 ```
 
-You can see the message `I am a message from Server!` sent from server to client.
-Done!
+You can see the message `I am a message from Server!` sent from server to client.<br>
+Done!<br>
+Please contact me if you have any problems, thanks for using it!
 
 ## Folder Structure
 
