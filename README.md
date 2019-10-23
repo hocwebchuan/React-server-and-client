@@ -1,5 +1,5 @@
 # React Server and Client
-This project is a simple way to create API by Express.js, then send a message from the server to the client.
+This project is a simple way to create API by Express.js, then send a message from the server to the client.<br>
 Tutorial avaiable at [https://hocwebchuan.com](https://hocwebchuan.com/tutorial/reactjs/reactjs_express_api.php)
 
 ## Table of Contents
@@ -49,12 +49,12 @@ npm install –save axios
 ```
 
 ### Run the app
-After install necessary libraries, now we can run the app by run this script at the root of project /React-server-and-client-master/:
+After install necessary libraries, now we can run the app by run this script at the root of project `/React-server-and-client-master/`:
 ```sh
 npm run dev
 ```
 
-You can see the message "I am a message from Server!" sent from server to client.
+You can see the message `I am a message from Server!` sent from server to client.
 Done!
 
 ## Folder Structure
